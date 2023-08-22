@@ -52,9 +52,9 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 ![ScreenShots of the app.](./public/images/Screenshot%202023-08-22%20090918.jpg)
 
 ## Links
-[View deployed HEROKU app here!](https://glacial-thicket-95359-563f8150aea7.herokuapp.com/login/)
+[View deployed HEROKU app here!](https://infinite-journey-68646-1a1262bd9f8c.herokuapp.com/)
 
-[View repository](https://infinite-journey-68646-1a1262bd9f8c.herokuapp.com/)
+[View repository](https://github.com/Marjan-MN/Tech-Blog)
 
 ## Technologies
 
