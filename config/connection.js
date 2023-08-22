@@ -1,8 +1,10 @@
 const Sequelize = require('sequelize');
+
+//allow for use of .env data
 require('dotenv').config();
 
+// create connection to db, whether local on on heroku using jawsdb
 let sequelize;
-
 if (process.env.JAWSDB_URL) {
   sequelize = new Sequelize(process.env.JAWSDB_URL);
 } else {
